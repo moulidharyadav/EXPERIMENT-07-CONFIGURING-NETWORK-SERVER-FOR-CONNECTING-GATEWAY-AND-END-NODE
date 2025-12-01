@@ -56,31 +56,19 @@ To set APP Key
 
 
 ## OUTPUT 
-<img width="1920" height="1200" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/c5d9a1af-7f58-491f-ad4d-c8458733ae0f" />
+<img width="1038" height="620" alt="Screenshot 2025-12-01 190821" src="https://github.com/user-attachments/assets/661eb9e8-44ce-4a9c-aee5-906862a64053" />
+<img width="1036" height="611" alt="Screenshot 2025-12-01 190837" src="https://github.com/user-attachments/assets/cfeb15e9-f800-4797-b9dd-3c8bc34bfd41" />
+<img width="1032" height="603" alt="Screenshot 2025-12-01 190855" src="https://github.com/user-attachments/assets/dd3d5d5d-1cc6-41c6-86f2-82954136a8c9" />
+<img width="1035" height="599" alt="Screenshot 2025-12-01 190905" src="https://github.com/user-attachments/assets/1d33ef17-3255-44cf-87fe-990ec2771b0a" />
+<img width="1039" height="616" alt="Screenshot 2025-12-01 190920" src="https://github.com/user-attachments/assets/0bd40dfe-8338-4553-8453-98affada4ef3" />
+<img width="1035" height="620" alt="Screenshot 2025-12-01 190932" src="https://github.com/user-attachments/assets/25fbd6c0-191d-40dc-9103-a6deb29543ec" />
+<img width="1037" height="607" alt="Screenshot 2025-12-01 190945" src="https://github.com/user-attachments/assets/6c8c4f89-bfd8-485c-a00a-febb7b4ed81a" />
+<img width="1040" height="613" alt="Screenshot 2025-12-01 190959" src="https://github.com/user-attachments/assets/708a91a3-6498-4034-a9a1-126ddfa92d60" />
+<img width="1033" height="606" alt="Screenshot 2025-12-01 191013" src="https://github.com/user-attachments/assets/48f3f1b1-aa19-41f8-9f2c-2d47bfa37c5d" />
+<img width="1035" height="611" alt="image" src="https://github.com/user-attachments/assets/36e4c041-e12d-4c34-8609-de54ed0fed26" />
 
 
-<img width="1033" height="604" alt="image" src="https://github.com/user-attachments/assets/d46e411d-7072-458d-820c-7f427d11c0b5" />
 
-
-<img width="1034" height="597" alt="image" src="https://github.com/user-attachments/assets/596406e1-89eb-42a5-915e-aef98e72b213" />
-
-
-<img width="1920" height="1200" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/d5582420-f8aa-45b6-bcd3-8f6a27bc66c9" />
-
-
-<img width="1920" height="1200" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/9716f2c2-34ed-4a4b-b38c-bb6f4a7e3ede" />
-
-
-<img width="1920" height="1200" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/b6026de6-ca86-4bae-afcb-c16384674b78" />
-
-
-<img width="1920" height="1200" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/74ede65f-c989-4500-be2a-8986ea1b0bf4" />
-
-
-<img width="1920" height="1200" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/7dfc3bad-581e-4b47-adb8-50fdbfa8b50b" />
-
-
-<img width="1920" height="1200" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/080efbd8-268e-4851-8420-208ead1c3d8c" />
 
 ## Result: 
 
