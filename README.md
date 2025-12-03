@@ -1,6 +1,6 @@
 ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
  
-## Aim: 
+## Aim:
 To  configure the Network server and end device for transferring data on the network
 ## Components required: 
 End node stm 32 development kit , Dragino LPS8, Network server 
